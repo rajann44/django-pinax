@@ -1,6 +1,6 @@
-# Pinax Project (2010 Era)
+# Pinax Project
 
-This is a Pinax project created to demonstrate the state of Django social web development in 2010. Pinax was one of the first comprehensive Django project templates that bundled together common social web features.
+A Django-based social web platform built with Pinax. This project demonstrates how to build a feature-rich social website using Django and Pinax.
 
 ## Features
 
@@ -43,13 +43,12 @@ python manage.py runserver
 - `static/`: Static files (CSS, JavaScript, images)
 - `media/`: User-uploaded files
 
-## Historical Context
+## Dependencies
 
-This project uses:
-- Django 1.2.7 (released in 2010)
-- Pinax 0.9a2 (the version available in 2010)
-- Various Django apps that were popular in 2010
+- Django 1.2.7
+- Pinax 0.9a2
+- Various Django apps for social features
 
 ## Note
 
-This is a historical recreation and should not be used in production. Modern Django projects should use current versions of Django and follow current best practices. 
+This project is for educational purposes and demonstrates the capabilities of Django and Pinax for building social web applications. 
